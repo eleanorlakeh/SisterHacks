@@ -6,7 +6,7 @@
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: #B0C4DE;
 }
 @media (min-width: 768px) {
   .jumbotron {
@@ -30,6 +30,7 @@
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
+  background-color: #B0C4DE;
 }
 
 footer p {
